@@ -19,5 +19,6 @@ public class MaximumXORWithanElementFromArray_1707 {
             }
 
         }
+        return ans;
     }
 }
